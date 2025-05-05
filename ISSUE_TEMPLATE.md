@@ -1,4 +1,4 @@
-## Objective Goal: 
+## Objective Goal:  
 Detailed description on what should happen to conside this a success.
 
 ## Related documents and links 
